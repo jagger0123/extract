@@ -10,9 +10,7 @@ compilecommand:
 
 usage:
 
-{
-./extract archive
-}
+```{./extract archive}```
 
 
 
@@ -20,5 +18,10 @@ it will extract your archive.
 no more googeling tar comands!
 
 currently supported archive types:
+- [x] tar
+- [ ] tar.gz
+- [ ] zip
+- [ ] ...
 
-tar
+Help by expanding the archive Support!
+
