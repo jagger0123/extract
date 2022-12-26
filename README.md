@@ -5,12 +5,12 @@ extract all archives under linux, no more tar -xvf  just extract anything
 
 compilecommand:
 
-**gcc extract.c -o extract -lz -lzip**
+{gcc extract.c -o extract -lz -lzip}
 
 
 usage:
 
-**./extract archive**
+{./extract archive}
 
 
 
